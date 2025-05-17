@@ -1,0 +1,6 @@
+spider	Shelob	hiss	crickets
+cat	Smudge	meow	mice
+cow	Reese	moo	grass
+cow	Buddy	maw	grass
+dog	Huck	bark	chow
+cow	Maceo	moo	grass

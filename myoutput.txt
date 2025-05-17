@@ -1,0 +1,25 @@
+There are 6 animals
+I am a Spider and my parent is Animal
+	Shelob says hiss
+	Shelob eats crickets
+	I'm a web developer
+I am a Cat and my parent is Animal
+	Smudge says meow
+	Smudge eats mice
+	I chase mice
+I am a Cow and my parent is Animal
+	Reese says moo
+	Reese eats grass
+	Here's some yummy milk
+I am a Cow and my parent is Animal
+	Buddy says maw
+	Buddy eats grass
+	Here's some yummy milk
+I am a Dog and my parent is Animal
+	Huck says bark
+	Huck eats chow
+	I fetch balls
+I am a Cow and my parent is Animal
+	Maceo says moo
+	Maceo eats grass
+	Here's some yummy milk

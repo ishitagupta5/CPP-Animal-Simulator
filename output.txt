@@ -1,0 +1,25 @@
+There are 6 animals
+I am a Dog and my parent is Animal
+	Fido says arf
+	Fido eats kibble
+	I fetch balls
+I am a Cat and my parent is Animal
+	Sage says meow
+	Sage eats cat food
+	I chase mice
+I am a Cow and my parent is Animal
+	Bessie says moo
+	Bessie eats grass
+	Here's some yummy milk
+I am a Spider and my parent is Animal
+	Charlotte says wshsh
+	Charlotte eats flies
+	I'm a web developer
+I am a Dog and my parent is Animal
+	Rex says ruff
+	Rex eats bones
+	I fetch balls
+I am a Cat and my parent is Animal
+	Fluffy says mew
+	Fluffy eats kibbles and bits
+	I chase mice

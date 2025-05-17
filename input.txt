@@ -1,0 +1,6 @@
+dog	Fido	arf	kibble
+cat	Sage	meow	cat food
+cow	Bessie	moo	grass
+spider	Charlotte	wshsh	flies
+dog	Rex	ruff	bones
+cat	Fluffy	mew	kibbles and bits
